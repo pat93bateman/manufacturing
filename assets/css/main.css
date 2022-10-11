@@ -111,7 +111,7 @@ input, select, textarea {
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #e44c65;
+		color: #ffffff;
 		text-decoration: none;
 	}
 
@@ -2255,7 +2255,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #e44c65;
+			border-color: #ffffff;
 		}
 
 	select {
@@ -2270,7 +2270,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #1c1d26;
+			background: #ffffff;
 		}
 
 		select:focus::-ms-value {
@@ -2863,7 +2863,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		input[type="button"]:active,
 		.button:active {
-			background-color: rgba(228, 76, 101, 0.15);
+			background-color: rgba(228, 225, 225, 0.5);
 		}
 
 		input[type="submit"].icon:before,
@@ -3139,15 +3139,15 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: #e44c65;
+			border-color: #ffffff;
 		}
 
 		.spotlight.style2 .content {
-			border-color: #5480f1;
+			border-color: #ffffff;
 		}
 
 		.spotlight.style3 .content {
-			border-color: #39c088;
+			border-color: #ffffff;
 		}
 
 		.spotlight.inactive .content {
@@ -3315,7 +3315,7 @@ input, select, textarea {
 	.dropotron {
 		background: rgba(255, 255, 255, 0.5);
 		border-radius: 4px;
-		box-shadow: 0 0.075em 0.35em 0 rgba(0, 0, 0, 0.125);
+		box-shadow: 0 0.075em 0.35em 0 rgba(225, 225, 225, 0.125);
 		list-style: none;
 		margin-top: calc(-0.25em + 1px);
 		min-width: 12em;
@@ -3375,7 +3375,7 @@ input, select, textarea {
 
 	#header {
 		background: rgba(0, 40, 51, 0.965);
-		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.25);
+		box-shadow: 0 0 0.25em 0 rgba(225, 225, 225, 0.25);
 		cursor: default;
 		height: 3.5em;
 		left: 0;
@@ -3430,7 +3430,7 @@ input, select, textarea {
 						}
 
 					#header nav ul li.active > a, #header nav ul li.active > span {
-						color: #e44c65;
+						color: #ffffff;
 					}
 
 					#header nav ul li > ul {
@@ -3455,7 +3455,7 @@ input, select, textarea {
 		background-image: url("../../images/banner.jpg");
 		background-position: center center;
 		background-size: cover;
-		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
+		box-shadow: 0 0.25em 0.5em 0 rgba(225, 225, 225, 0.25);
 		min-height: 100vh;
 		position: relative;
 		text-align: center;
@@ -3835,7 +3835,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.25);
+				box-shadow: 0 0.125em 0.5em 0 rgba(225, 225, 225, 0.25);
 				min-height: calc(100vh - 44px);
 			}
 
@@ -3887,8 +3887,8 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #272833;
-				box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
+				background: #ffffff;
+				box-shadow: 0 0.125em 0.125em 0 rgba(225, 225, 225, 0.125);
 			}
 
 				#titleBar .title {
