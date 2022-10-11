@@ -3085,7 +3085,7 @@ input, select, textarea {
 			transition: transform 1s ease, opacity 1s ease;
 			background: rgba(255, 255, 255, 0.75);
 			border-style: solid;
-			opacity: 0.25;
+			opacity: 1;
 			position: absolute;
 		}
 
