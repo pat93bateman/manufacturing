@@ -189,7 +189,7 @@ textarea.input {
 }
 
 .contact-info .title {
-  color: orange;
+  color: white;
 }
 
 .text {
@@ -229,7 +229,7 @@ textarea.input {
   width: 35px;
   height: 35px;
   border-radius: 5px;
-  background: linear-gradient(45deg, orange, red);
+  background: linear-gradient(45deg, white, red);
   color: #fff;
   text-align: center;
   line-height: 35px;
