@@ -154,10 +154,10 @@ textarea.input {
   opacity: 0;
   transition: 0.3s;
   height: 5px;
-  background-color: orange;
+  background-color: red;
   top: 50%;
   transform: translateY(-50%);
-  border: orange 2px solid;
+  border: red 2px solid;
 }
 
 .input-container span:before {
@@ -185,11 +185,11 @@ textarea.input {
   padding: 2.3rem 2.2rem;
   position: relative;
   background-color: #12192c;
-  border: orange 2px solid;
+  border: red 2px solid;
 }
 
 .contact-info .title {
-  color: orange;
+  color: red;
 }
 
 .text {
@@ -208,12 +208,12 @@ textarea.input {
 .icon {
   width: 28px;
   margin-right: 0.7rem;
-  color: orange;
+  color: red;
 }
 
 .social-media {
   padding: 2rem 0 0 0;
-  color: orange;
+  color: red;
 }
 
 .social-media p {
