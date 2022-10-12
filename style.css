@@ -157,7 +157,7 @@ textarea.input {
   background-color: red;
   top: 50%;
   transform: translateY(-50%);
-  border: red 2px solid;
+  border: white 2px solid;
 }
 
 .input-container span:before {
@@ -189,7 +189,7 @@ textarea.input {
 }
 
 .contact-info .title {
-  color: red;
+  color: white;
 }
 
 .text {
