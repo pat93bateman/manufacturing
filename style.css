@@ -157,7 +157,7 @@ textarea.input {
   background-color: orange;
   top: 50%;
   transform: translateY(-50%);
-  border: orange 2px solid;
+  border: white 2px solid;
 }
 
 .input-container span:before {
