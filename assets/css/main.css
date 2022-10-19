@@ -3840,7 +3840,7 @@ input, select, textarea {
 			}
 
 				#banner:before {
-					height: calc(100vh - 14px);
+					height: calc(100vh - 44px);
 				}
 
 				#banner .content {
