@@ -3835,12 +3835,12 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.25);
-				min-height: calc(100vh - 44px);
+				box-shadow: 0 0.125em 0.5em 0 rgba(222, 222, 222, 0.25);
+				min-height: calc(100vh - 84px);
 			}
 
 				#banner:before {
-					height: calc(100vh - 44px);
+					height: calc(100vh - 84px);
 				}
 
 				#banner .content {
