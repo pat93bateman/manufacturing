@@ -3236,7 +3236,7 @@ input, select, textarea {
 			.wrapper.style2 input[type="button"].primary,
 			.wrapper.style2 .button.primary {
 				background-color: #ffffff;
-				color: #00FFFF !important;
+				color: #e44c65 !important;
 			}
 
 				.wrapper.style2 input[type="submit"].primary:hover, .wrapper.style2 input[type="submit"].primary:active,
@@ -3340,7 +3340,7 @@ input, select, textarea {
 			}
 
 			.dropotron > li.active > a, .dropotron > li.active > span {
-				color: #00FFFF;
+				color: #e44c65;
 			}
 
 		.dropotron.level-0 {
@@ -3430,7 +3430,7 @@ input, select, textarea {
 						}
 
 					#header nav ul li.active > a, #header nav ul li.active > span {
-						color: #00FFFF;
+						color: #e44c65;
 					}
 
 					#header nav ul li > ul {
