@@ -2569,11 +2569,11 @@ input, select, textarea {
 	ol {
 		list-style: decimal;
 		margin: 0 0 2em 0;
-		padding-left: 1.25em;
+		padding-right: 1.25em;
 	}
 
 		ol li {
-			padding-left: 0.25em;
+			padding-right: 0.25em;
 		}
 
 	ul {
@@ -2583,12 +2583,12 @@ input, select, textarea {
 	}
 
 		ul li {
-			padding-left: 0.5em;
+			padding-right: 0.5em;
 		}
 
 		ul.alt {
 			list-style: none;
-			padding-left: 0;
+			padding-right: 0;
 		}
 
 			ul.alt li {
@@ -3882,7 +3882,7 @@ input, select, textarea {
 				transition: transform 0.5s ease;
 				display: block;
 				height: 84px;
-				left: 0;
+				right: 0;
 				position: fixed;
 				top: 0;
 				width: 100%;
@@ -3908,7 +3908,7 @@ input, select, textarea {
 				#titleBar .toggle {
 					text-decoration: none;
 					height: 120px;
-					left: 0;
+					right: 0;
 					position: absolute;
 					top: 0;
 					width: 150px;
@@ -3936,7 +3936,7 @@ input, select, textarea {
 						display: block;
 						font-size: 38px;
 						height: 84px;
-						left: 0;
+						right: 0;
 						line-height: 84px;
 						position: absolute;
 						text-align: center;
@@ -3959,7 +3959,7 @@ input, select, textarea {
 				transition: transform 0.5s ease;
 				display: block;
 				height: 100%;
-				left: 0;
+				right: 0;
 				overflow-y: auto;
 				position: fixed;
 				top: 0;
