@@ -3934,10 +3934,10 @@ input, select, textarea {
 						color: rgba(255, 255, 255, 0.5);
 						content: '\f0c9';
 						display: block;
-						font-size: 18px;
+						font-size: 38px;
 						height: 84px;
 						left: 0;
-						line-height: 44px;
+						line-height: 84px;
 						position: absolute;
 						text-align: center;
 						top: 0;
