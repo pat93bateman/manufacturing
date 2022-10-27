@@ -111,7 +111,7 @@ input, select, textarea {
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #45818e;
+		color: #e44c65;
 		text-decoration: none;
 	}
 
@@ -2186,7 +2186,7 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #1C1D26;
+			background: #e44c65;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -2358,7 +2358,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #274e13;
+			border-color: #e44c65;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2898,7 +2898,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #6a329f;
+			background-color: #e44c65;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -2907,14 +2907,14 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #6a329f;
+				background-color: #e76278;
 			}
 
 			input[type="submit"].primary:active,
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #6a329f;
+				background-color: #e13652;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -3197,11 +3197,11 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		padding: 1em 0 1em 0;
+		padding: 6em 0 4em 0;
 	}
 
 		.wrapper.style2 {
-			background: #8fce00;
+			background: #e44c65;
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
@@ -3370,16 +3370,16 @@ input, select, textarea {
 /* Header */
 
 	#page-wrapper {
-		padding-top: 1.5em;
+		padding-top: 3.5em;
 	}
 
 	#header {
 		background: rgba(39, 40, 51, 0.965);
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.25);
 		cursor: default;
-		height: 1.5em;
+		height: 3.5em;
 		left: 0;
-		line-height: 1.5em;
+		line-height: 3.5em;
 		position: fixed;
 		top: 0;
 		width: 100%;
