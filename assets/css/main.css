@@ -2186,7 +2186,7 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #e44c65;
+			background: #1C1D26;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -4094,7 +4094,7 @@ input, select, textarea {
 		/* Footer */
 
 			#footer {
-				padding: 1em .25em;
+				padding: 3em 1.25em;
 			}
 
 				#footer .copyright {
