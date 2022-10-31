@@ -1,4 +1,5 @@
 RewriteEngine on
+Options +FollowSymLinks
 RewriteCond %{THE_REQUEST} ^.*/index.html
 RewriteRule ^(.*)index.html$ https://owensmfg.com/$1 [R=301,L]
 RewriteCond %{REQUEST_FILENAME} !-d
