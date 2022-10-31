@@ -2,6 +2,3 @@ RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
-### re-direct index.html to root / ###RewriteCond %{THE REQUEST}
-^.*/INDEX.HTML HTTP/
-RewriteRule ^(.*)index.html$ /$1 [R=301,L]
