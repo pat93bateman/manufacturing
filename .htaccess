@@ -2,4 +2,6 @@ RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
-Redirect 301 /https://owensmfg.com/index.html /https://owensmfg.com/.html 
+RewriteEngine On
+RewriteCond %{THE_REQUEST} /index\.html? [NC]
+RewriteRule ^(.*/)?index\.html?$ /$1 [R=301,L]
