@@ -1,7 +1,6 @@
 RewriteEngine on
-RewriteRule ^index\.html$ / [R=301,L]
+# Remove "index.html"
 RewriteRule ^(.*)/index\.html$ /$1/ [R=301,L]
-
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
