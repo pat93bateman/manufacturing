@@ -2945,7 +2945,7 @@
 	}
 
 	#header {
-		background: #59657F;
+		background: #555D8D;
 		color: #bbb;
 		cursor: default;
 		height: 4.55em;
@@ -3324,7 +3324,7 @@
 /* CTA */
 
 	#cta {
-		background: #555D8D;
+		background: #3D6D97;
 		color: #f9e6df;
 		padding: 1.5em 0 1.5em 0;
 		text-align: center;
