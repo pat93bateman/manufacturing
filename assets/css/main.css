@@ -3249,7 +3249,7 @@
 	#banner1 {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/pic04.png");
+		background-image: url("images/overlay.png"), url("../../images/pic05.png");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3318,7 +3318,7 @@
 	#banner2 {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/pic05.jpg");
+		background-image: url("images/overlay.png"), url("../../images/pic04.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
